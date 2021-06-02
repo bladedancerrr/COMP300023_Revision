@@ -3,6 +3,29 @@ COMP30023 (Computer Systems) Revision for final exam material.
 
 Topics: 
 - Operating Systems
+  - OS as an extended/virtual machine
+  - OS as a resource manager
+  - Processes
+    * Process table and process control blocks
+    * Information associated with each process
+    * 
+  - Memory management
+    * Swapping
+    * Virtual Memory
+    * Memory Management Unit
+    * External fragmentation vs. internal fragmentation  
+    * Memory hierarchy
+  - Kernel
+  - Kernel Mode vs. User Mode
+  - Mode Switching 
+    * Processor status word and mode bit  
+  - System calls
+    * Types of system calls
+  - Process states, creation and termination
+  - Threads
+    * Performance I/O bound vs. CPU bound
+  - User level threads vs. kernel threads
+  -Race conditions & deadlocks
 - Security
 - Networking
 
