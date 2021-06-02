@@ -11,9 +11,8 @@ Topics:
     * 
   - Memory management
     * Swapping
-    * Virtual Memory
-    * Memory Management Unit
-    * External fragmentation vs. internal fragmentation  
+    * Virtual MemoryA,
+    * External fragmentation vs. internal fragmentation  Rel
     * Memory hierarchy
   - Kernel
   - Kernel Mode vs. User Mode
@@ -37,6 +36,26 @@ Topics:
   - MAC
   - Certificates, CAs, verification
 - Networking
+  - Internet vs. web
+  - E2E vs. P2P
+  - Layers in TCP/IP models
+  - HTTP
+  - Cookies
+  - FTP vs. SMTP
+  - DNS
+  - A, NS, CNAME, MX record types
+  - Different types of DNS servers and what type of records they contain
+  - TCP vs UDP
+  - Multiplexing vs depmultiplexing
+  - Reliable data transfer
+  - Socket vs. Connection
+  - Congestion control
+  - What happens with a timeout loss vs. a 3 dupACK loss
+  - Slow start vs. congestion avoidance vs. fast recovery (look at graph)
+  - Forwarding vs routing
+  - NAT/NAPT
+  - Subnets
+  - IP Fragmentation
 
 Link to combined slides pdf: https://drive.google.com/file/d/19UXOpVT5URWgILuPCMjaItBywFwQWVYj/view?usp=sharing
 
