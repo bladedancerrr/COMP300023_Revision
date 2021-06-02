@@ -15,7 +15,6 @@ Link to presentation: https://www.youtube.com/watch?v=2sR5vrf0u7g&list=PLM01JUa9
   - Processes
     * Process table and process control blocks
     * Information associated with each process
-    * 
   - Memory management
     * Swapping
     * Virtual MemoryA,
