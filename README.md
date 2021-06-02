@@ -27,6 +27,15 @@ Topics:
   - User level threads vs. kernel threads
   -Race conditions & deadlocks
 - Security
+  - Goals of security
+  - Asymmetric vs. symmetric encryption
+  - AES: what are CB & ECB and similarities + differences
+  - Symmetric key exchange using public key encryption
+  - TLS
+  - Diffie-Hellman
+    * Perfect forward secrecy
+  - MAC
+  - Certificates, CAs, verification
 - Networking
 
 Link to combined slides pdf: https://drive.google.com/file/d/19UXOpVT5URWgILuPCMjaItBywFwQWVYj/view?usp=sharing
