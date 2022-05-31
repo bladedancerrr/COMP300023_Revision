@@ -6,7 +6,7 @@ Link to combined slides pdf: https://drive.google.com/file/d/19UXOpVT5URWgILuPCM
 
 Link to slides: https://docs.google.com/presentation/d/1fU0cWPyDitXKHvnlDDaJqcMzx9zDfvfgS1iX-HT5YRo/edit?usp=sharing
 
-Link to presentation: https://www.youtube.com/watch?v=2sR5vrf0u7g&list=PLM01JUa9fdaCg4-qnH5x5IvF2KXAEC2ck&index=3
+Link to presentation:
 
 ## Topics: 
 - Operating Systems
